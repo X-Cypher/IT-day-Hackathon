@@ -12,7 +12,7 @@
         android:text="Book Section"
         android:layout_marginTop="5dp"
         android:textSize="25dp"
-        android:fontFamily="@font/muli_black"
+        android:fontFamily="@@font/playfair_display"
         android:textColor="@color/black"
         android:id="@+id/title"
         app:layout_constraintEnd_toEndOf="parent"
