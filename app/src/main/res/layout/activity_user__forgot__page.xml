@@ -31,7 +31,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:fontFamily="@@font/playfair_display"
+                android:fontFamily="@@font/roboto_medium"
                 android:text="Forgot\nPassword"
                 android:textAlignment="center"
                 android:textColor="@color/black"

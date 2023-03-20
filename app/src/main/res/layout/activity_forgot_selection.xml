@@ -27,7 +27,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="@@font/playfair_display"
+                android:fontFamily="@@font/roboto_medium"
                 android:text="Make\nSelection"
                 android:textColor="@color/black"
 
@@ -72,7 +72,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="20dp"
-                            android:fontFamily="@font/playfair_display"
+                            android:fontFamily="@font/roboto_medium"
                             android:text="Via SMS"
 
                             android:textColor="@color/purple_500"
@@ -84,7 +84,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
-                            android:fontFamily="@font/playfair_display"
+                            android:fontFamily="@font/roboto_medium"
                             android:text="+91xxxxxx"
                             android:textColor="@color/black"
                             android:textSize="18dp" />
@@ -127,7 +127,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="20dp"
-                            android:fontFamily="@font/playfair_display"
+                            android:fontFamily="@font/roboto_medium"
                             android:text="Via mail"
                             android:textColor="@color/purple_500"
                             android:textSize="25dp"
@@ -137,7 +137,7 @@
                             android:id="@+id/emailId"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:fontFamily="@font/playfair_display"
+                            android:fontFamily="@font/roboto_medium"
                             android:text="jaxxxxx82@gmail.com"
                             android:textColor="@color/black"
                             android:textSize="18dp" />
