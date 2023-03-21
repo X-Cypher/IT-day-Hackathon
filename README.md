@@ -1,6 +1,6 @@
 
 # Agro Grow Android App
-![Logo](https://ibb.co/0FGbcj4)
+![Logo](https://ibb.co/CW6MXf5)
 
 Agro Grow is a mobile application which is developed specially for the agriculture community. This application aims to help farmers to reach to new farming technology using rental system. 
 This app is for two types of users namely: farmers, who need the equipment and owners who want to rent their equipment. The farmers need to pay some rent to owners acording to the required time.
