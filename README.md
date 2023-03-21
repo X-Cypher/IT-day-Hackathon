@@ -1,10 +1,10 @@
 
-# Krishi-Sarathi Android App
-![Logo](https://i.im.ge/2021/08/30/QOPvA4.jpg)
+# Agro Grow Android App
+![Logo](https://ibb.co/0FGbcj4)
 
-Krishi-Sarathi is a mobile application which is developed specially for the agriculture community. This application aims to help farmers to reach to new farming technology using rent system. 
-This app is for two types of users namely farmers who need the equipment and owners who want to rent their equipment. The farmers need to pay some rent to owners acording to the required time.
-
+Agro Grow is a mobile application which is developed specially for the agriculture community. This application aims to help farmers to reach to new farming technology using rental system. 
+This app is for two types of users namely: farmers, who need the equipment and owners who want to rent their equipment. The farmers need to pay some rent to owners acording to the required time.
+Additionally, farmers can generate extra income by selling cow manure to bio-fuel stations.
 
 ## Features
 
@@ -14,17 +14,17 @@ This app is for two types of users namely farmers who need the equipment and own
 - Weather forecasting for the current user location.
 - Flexible user dashboard.
 - Localization: Application available in 3 langauges - English, Hindi, Marathi.
-- User profile and update profile.
+- User profile and personalization
 - Two way switch within same application i.e. both farmer and owner can use the same application.
 
   
 ## Tech Stack
 
-**Front-end:** XML
+Front-end: XML
 
-**Back-end:** Java
+Back-end:  Java
 
-**Database System:** Firebase
+Database System: Firebase
 
   
 ## Setup
@@ -57,12 +57,6 @@ This app is for two types of users namely farmers who need the equipment and own
 
 - Retrofit, gson and converter
 - Google play services maps and location
-
-  
-## Documentation
-
-[Documentation](https://drive.google.com/file/d/1h7a5t_MWl6fAZeo1s538e1xml52j31rp/view?usp=sharing)
-
   
 ## Screenshots
 
